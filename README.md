@@ -1,20 +1,36 @@
-# Technoblade PvP Pack – Miniblox Edition 🐷⚔️
-
-A clean PvP-focused texture pack inspired by Technoblade.
-
-## Features
-- Full armor sets (all tiers)
-- Dark netherite textures
-- Short PvP swords
-- Clean UI & hearts
-- Optimized for combat visibility
-
-## Installation
-1. Download ZIP
-2. Open Miniblox
-3. Import texture pack
-4. Enable and play
-
-## Disclaimer
-This pack is fan-made and inspired by Technoblade.
-Not official or affiliated.
+technoblade-miniblox-pack/
+│
+├── manifest.json
+├── pack.json
+├── README.md
+├── LICENSE
+│
+├── textures/
+│   ├── armor/
+│   │   ├── leather.png
+│   │   ├── iron.png
+│   │   ├── diamond.png
+│   │   └── netherite.png
+│   │
+│   ├── items/
+│   │   ├── swords.png
+│   │   ├── tools.png
+│   │   ├── food.png
+│   │   ├── potions.png
+│   │   └── misc.png
+│   │
+│   ├── blocks/
+│   │   ├── ores.png
+│   │   ├── building.png
+│   │   └── functional.png
+│   │
+│   ├── mobs/
+│   │   └── spawn_eggs.png
+│   │
+│   └── ui/
+│       ├── hearts.png
+│       ├── hotbar.png
+│       └── beds.png
+│
+└── preview/
+    └── showcase.png
